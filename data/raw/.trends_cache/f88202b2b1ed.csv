@@ -1,0 +1,156 @@
+brand_name,brand_key,log_date,search_index_score,is_control
+Dior,dior,2026-02-16,1.0,True
+Vaquera,vaquera,2026-02-16,0.025,False
+Zomer,zomer,2026-02-16,0.0375,False
+Ganni,ganni,2026-02-16,0.0375,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-16,0.0,False
+Dior,dior,2026-02-17,1.0,True
+Vaquera,vaquera,2026-02-17,0.026667,False
+Zomer,zomer,2026-02-17,0.04,False
+Ganni,ganni,2026-02-17,0.04,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-17,0.0,False
+Dior,dior,2026-02-18,1.0,True
+Vaquera,vaquera,2026-02-18,0.026667,False
+Zomer,zomer,2026-02-18,0.04,False
+Ganni,ganni,2026-02-18,0.04,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-18,0.0,False
+Dior,dior,2026-02-19,1.0,True
+Vaquera,vaquera,2026-02-19,0.025974,False
+Zomer,zomer,2026-02-19,0.038961,False
+Ganni,ganni,2026-02-19,0.038961,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-19,0.0,False
+Dior,dior,2026-02-20,1.0,True
+Vaquera,vaquera,2026-02-20,0.024691,False
+Zomer,zomer,2026-02-20,0.037037,False
+Ganni,ganni,2026-02-20,0.049383,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-20,0.0,False
+Dior,dior,2026-02-21,1.0,True
+Vaquera,vaquera,2026-02-21,0.021277,False
+Zomer,zomer,2026-02-21,0.042553,False
+Ganni,ganni,2026-02-21,0.042553,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-21,0.0,False
+Dior,dior,2026-02-22,1.0,True
+Vaquera,vaquera,2026-02-22,0.022472,False
+Zomer,zomer,2026-02-22,0.044944,False
+Ganni,ganni,2026-02-22,0.044944,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-22,0.0,False
+Dior,dior,2026-02-23,1.0,True
+Vaquera,vaquera,2026-02-23,0.025641,False
+Zomer,zomer,2026-02-23,0.038462,False
+Ganni,ganni,2026-02-23,0.051282,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-23,0.0,False
+Dior,dior,2026-02-24,1.0,True
+Vaquera,vaquera,2026-02-24,0.027027,False
+Zomer,zomer,2026-02-24,0.040541,False
+Ganni,ganni,2026-02-24,0.054054,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-24,0.0,False
+Dior,dior,2026-02-25,1.0,True
+Vaquera,vaquera,2026-02-25,0.025974,False
+Zomer,zomer,2026-02-25,0.038961,False
+Ganni,ganni,2026-02-25,0.051948,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-25,0.0,False
+Dior,dior,2026-02-26,1.0,True
+Vaquera,vaquera,2026-02-26,0.025641,False
+Zomer,zomer,2026-02-26,0.038462,False
+Ganni,ganni,2026-02-26,0.038462,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-26,0.0,False
+Dior,dior,2026-02-27,1.0,True
+Vaquera,vaquera,2026-02-27,0.024691,False
+Zomer,zomer,2026-02-27,0.037037,False
+Ganni,ganni,2026-02-27,0.037037,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-27,0.0,False
+Dior,dior,2026-02-28,1.0,True
+Vaquera,vaquera,2026-02-28,0.034884,False
+Zomer,zomer,2026-02-28,0.046512,False
+Ganni,ganni,2026-02-28,0.046512,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-02-28,0.0,False
+Dior,dior,2026-03-01,1.0,True
+Vaquera,vaquera,2026-03-01,0.022727,False
+Zomer,zomer,2026-03-01,0.045455,False
+Ganni,ganni,2026-03-01,0.045455,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-01,0.0,False
+Dior,dior,2026-03-02,1.0,True
+Vaquera,vaquera,2026-03-02,0.026316,False
+Zomer,zomer,2026-03-02,0.052632,False
+Ganni,ganni,2026-03-02,0.039474,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-02,0.0,False
+Dior,dior,2026-03-03,1.0,True
+Vaquera,vaquera,2026-03-03,0.026316,False
+Zomer,zomer,2026-03-03,0.052632,False
+Ganni,ganni,2026-03-03,0.039474,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-03,0.0,False
+Dior,dior,2026-03-04,1.0,True
+Vaquera,vaquera,2026-03-04,0.02381,False
+Zomer,zomer,2026-03-04,0.047619,False
+Ganni,ganni,2026-03-04,0.035714,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-04,0.0,False
+Dior,dior,2026-03-05,1.0,True
+Vaquera,vaquera,2026-03-05,0.02381,False
+Zomer,zomer,2026-03-05,0.047619,False
+Ganni,ganni,2026-03-05,0.035714,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-05,0.0,False
+Dior,dior,2026-03-06,1.0,True
+Vaquera,vaquera,2026-03-06,0.023256,False
+Zomer,zomer,2026-03-06,0.034884,False
+Ganni,ganni,2026-03-06,0.046512,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-06,0.0,False
+Dior,dior,2026-03-07,1.0,True
+Vaquera,vaquera,2026-03-07,0.02,False
+Zomer,zomer,2026-03-07,0.04,False
+Ganni,ganni,2026-03-07,0.04,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-07,0.0,False
+Dior,dior,2026-03-08,1.0,True
+Vaquera,vaquera,2026-03-08,0.030303,False
+Zomer,zomer,2026-03-08,0.050505,False
+Ganni,ganni,2026-03-08,0.040404,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-08,0.0,False
+Dior,dior,2026-03-09,1.0,True
+Vaquera,vaquera,2026-03-09,0.02381,False
+Zomer,zomer,2026-03-09,0.047619,False
+Ganni,ganni,2026-03-09,0.035714,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-09,0.0,False
+Dior,dior,2026-03-10,1.0,True
+Vaquera,vaquera,2026-03-10,0.025,False
+Zomer,zomer,2026-03-10,0.0375,False
+Ganni,ganni,2026-03-10,0.0375,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-10,0.0,False
+Dior,dior,2026-03-11,1.0,True
+Vaquera,vaquera,2026-03-11,0.02439,False
+Zomer,zomer,2026-03-11,0.036585,False
+Ganni,ganni,2026-03-11,0.036585,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-11,0.0,False
+Dior,dior,2026-03-12,1.0,True
+Vaquera,vaquera,2026-03-12,0.024096,False
+Zomer,zomer,2026-03-12,0.036145,False
+Ganni,ganni,2026-03-12,0.036145,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-12,0.0,False
+Dior,dior,2026-03-13,1.0,True
+Vaquera,vaquera,2026-03-13,0.021739,False
+Zomer,zomer,2026-03-13,0.032609,False
+Ganni,ganni,2026-03-13,0.043478,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-13,0.0,False
+Dior,dior,2026-03-14,1.0,True
+Vaquera,vaquera,2026-03-14,0.020619,False
+Zomer,zomer,2026-03-14,0.041237,False
+Ganni,ganni,2026-03-14,0.041237,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-14,0.0,False
+Dior,dior,2026-03-15,1.0,True
+Vaquera,vaquera,2026-03-15,0.021277,False
+Zomer,zomer,2026-03-15,0.042553,False
+Ganni,ganni,2026-03-15,0.042553,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-15,0.0,False
+Dior,dior,2026-03-16,1.0,True
+Vaquera,vaquera,2026-03-16,0.02439,False
+Zomer,zomer,2026-03-16,0.036585,False
+Ganni,ganni,2026-03-16,0.036585,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-16,0.0,False
+Dior,dior,2026-03-17,1.0,True
+Vaquera,vaquera,2026-03-17,0.025974,False
+Zomer,zomer,2026-03-17,0.051948,False
+Ganni,ganni,2026-03-17,0.038961,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-17,0.0,False
+Dior,dior,2026-03-18,1.0,True
+Vaquera,vaquera,2026-03-18,0.025,False
+Zomer,zomer,2026-03-18,0.05,False
+Ganni,ganni,2026-03-18,0.0375,False
+Marie Adam-Leenaerdt,marie adamleenaerdt,2026-03-18,0.0,False

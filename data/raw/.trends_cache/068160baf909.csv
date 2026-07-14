@@ -1,0 +1,156 @@
+brand_name,brand_key,log_date,search_index_score,is_control
+Dior,dior,2026-02-16,1.0,True
+KENZO,kenzo,2026-02-16,0.075,False
+BERLUTI,berluti,2026-02-16,0.0125,False
+DIOR HOMME,dior homme,2026-02-16,0.0375,False
+3.PARADIS,3paradis,2026-02-16,0.0,False
+Dior,dior,2026-02-17,1.0,True
+KENZO,kenzo,2026-02-17,0.08,False
+BERLUTI,berluti,2026-02-17,0.0,False
+DIOR HOMME,dior homme,2026-02-17,0.04,False
+3.PARADIS,3paradis,2026-02-17,0.0,False
+Dior,dior,2026-02-18,1.0,True
+KENZO,kenzo,2026-02-18,0.066667,False
+BERLUTI,berluti,2026-02-18,0.0,False
+DIOR HOMME,dior homme,2026-02-18,0.026667,False
+3.PARADIS,3paradis,2026-02-18,0.0,False
+Dior,dior,2026-02-19,1.0,True
+KENZO,kenzo,2026-02-19,0.077922,False
+BERLUTI,berluti,2026-02-19,0.0,False
+DIOR HOMME,dior homme,2026-02-19,0.038961,False
+3.PARADIS,3paradis,2026-02-19,0.0,False
+Dior,dior,2026-02-20,1.0,True
+KENZO,kenzo,2026-02-20,0.074074,False
+BERLUTI,berluti,2026-02-20,0.0,False
+DIOR HOMME,dior homme,2026-02-20,0.037037,False
+3.PARADIS,3paradis,2026-02-20,0.0,False
+Dior,dior,2026-02-21,1.0,True
+KENZO,kenzo,2026-02-21,0.074468,False
+BERLUTI,berluti,2026-02-21,0.0,False
+DIOR HOMME,dior homme,2026-02-21,0.031915,False
+3.PARADIS,3paradis,2026-02-21,0.0,False
+Dior,dior,2026-02-22,1.0,True
+KENZO,kenzo,2026-02-22,0.067416,False
+BERLUTI,berluti,2026-02-22,0.011236,False
+DIOR HOMME,dior homme,2026-02-22,0.033708,False
+3.PARADIS,3paradis,2026-02-22,0.0,False
+Dior,dior,2026-02-23,1.0,True
+KENZO,kenzo,2026-02-23,0.076923,False
+BERLUTI,berluti,2026-02-23,0.0,False
+DIOR HOMME,dior homme,2026-02-23,0.038462,False
+3.PARADIS,3paradis,2026-02-23,0.0,False
+Dior,dior,2026-02-24,1.0,True
+KENZO,kenzo,2026-02-24,0.067568,False
+BERLUTI,berluti,2026-02-24,0.0,False
+DIOR HOMME,dior homme,2026-02-24,0.040541,False
+3.PARADIS,3paradis,2026-02-24,0.0,False
+Dior,dior,2026-02-25,1.0,True
+KENZO,kenzo,2026-02-25,0.077922,False
+BERLUTI,berluti,2026-02-25,0.012987,False
+DIOR HOMME,dior homme,2026-02-25,0.038961,False
+3.PARADIS,3paradis,2026-02-25,0.0,False
+Dior,dior,2026-02-26,1.0,True
+KENZO,kenzo,2026-02-26,0.076923,False
+BERLUTI,berluti,2026-02-26,0.012821,False
+DIOR HOMME,dior homme,2026-02-26,0.038462,False
+3.PARADIS,3paradis,2026-02-26,0.0,False
+Dior,dior,2026-02-27,1.0,True
+KENZO,kenzo,2026-02-27,0.074074,False
+BERLUTI,berluti,2026-02-27,0.012346,False
+DIOR HOMME,dior homme,2026-02-27,0.024691,False
+3.PARADIS,3paradis,2026-02-27,0.0,False
+Dior,dior,2026-02-28,1.0,True
+KENZO,kenzo,2026-02-28,0.069767,False
+BERLUTI,berluti,2026-02-28,0.0,False
+DIOR HOMME,dior homme,2026-02-28,0.034884,False
+3.PARADIS,3paradis,2026-02-28,0.0,False
+Dior,dior,2026-03-01,1.0,True
+KENZO,kenzo,2026-03-01,0.056818,False
+BERLUTI,berluti,2026-03-01,0.011364,False
+DIOR HOMME,dior homme,2026-03-01,0.034091,False
+3.PARADIS,3paradis,2026-03-01,0.0,False
+Dior,dior,2026-03-02,1.0,True
+KENZO,kenzo,2026-03-02,0.065789,False
+BERLUTI,berluti,2026-03-02,0.0,False
+DIOR HOMME,dior homme,2026-03-02,0.039474,False
+3.PARADIS,3paradis,2026-03-02,0.0,False
+Dior,dior,2026-03-03,1.0,True
+KENZO,kenzo,2026-03-03,0.065789,False
+BERLUTI,berluti,2026-03-03,0.0,False
+DIOR HOMME,dior homme,2026-03-03,0.039474,False
+3.PARADIS,3paradis,2026-03-03,0.0,False
+Dior,dior,2026-03-04,1.0,True
+KENZO,kenzo,2026-03-04,0.059524,False
+BERLUTI,berluti,2026-03-04,0.0,False
+DIOR HOMME,dior homme,2026-03-04,0.035714,False
+3.PARADIS,3paradis,2026-03-04,0.0,False
+Dior,dior,2026-03-05,1.0,True
+KENZO,kenzo,2026-03-05,0.059524,False
+BERLUTI,berluti,2026-03-05,0.0,False
+DIOR HOMME,dior homme,2026-03-05,0.035714,False
+3.PARADIS,3paradis,2026-03-05,0.0,False
+Dior,dior,2026-03-06,1.0,True
+KENZO,kenzo,2026-03-06,0.069767,False
+BERLUTI,berluti,2026-03-06,0.011628,False
+DIOR HOMME,dior homme,2026-03-06,0.034884,False
+3.PARADIS,3paradis,2026-03-06,0.0,False
+Dior,dior,2026-03-07,1.0,True
+KENZO,kenzo,2026-03-07,0.06,False
+BERLUTI,berluti,2026-03-07,0.01,False
+DIOR HOMME,dior homme,2026-03-07,0.03,False
+3.PARADIS,3paradis,2026-03-07,0.0,False
+Dior,dior,2026-03-08,1.0,True
+KENZO,kenzo,2026-03-08,0.060606,False
+BERLUTI,berluti,2026-03-08,0.0,False
+DIOR HOMME,dior homme,2026-03-08,0.030303,False
+3.PARADIS,3paradis,2026-03-08,0.0,False
+Dior,dior,2026-03-09,1.0,True
+KENZO,kenzo,2026-03-09,0.059524,False
+BERLUTI,berluti,2026-03-09,0.0,False
+DIOR HOMME,dior homme,2026-03-09,0.035714,False
+3.PARADIS,3paradis,2026-03-09,0.0,False
+Dior,dior,2026-03-10,1.0,True
+KENZO,kenzo,2026-03-10,0.0625,False
+BERLUTI,berluti,2026-03-10,0.0,False
+DIOR HOMME,dior homme,2026-03-10,0.0375,False
+3.PARADIS,3paradis,2026-03-10,0.0,False
+Dior,dior,2026-03-11,1.0,True
+KENZO,kenzo,2026-03-11,0.060976,False
+BERLUTI,berluti,2026-03-11,0.0,False
+DIOR HOMME,dior homme,2026-03-11,0.036585,False
+3.PARADIS,3paradis,2026-03-11,0.0,False
+Dior,dior,2026-03-12,1.0,True
+KENZO,kenzo,2026-03-12,0.060241,False
+BERLUTI,berluti,2026-03-12,0.012048,False
+DIOR HOMME,dior homme,2026-03-12,0.036145,False
+3.PARADIS,3paradis,2026-03-12,0.0,False
+Dior,dior,2026-03-13,1.0,True
+KENZO,kenzo,2026-03-13,0.065217,False
+BERLUTI,berluti,2026-03-13,0.01087,False
+DIOR HOMME,dior homme,2026-03-13,0.032609,False
+3.PARADIS,3paradis,2026-03-13,0.0,False
+Dior,dior,2026-03-14,1.0,True
+KENZO,kenzo,2026-03-14,0.0625,False
+BERLUTI,berluti,2026-03-14,0.010417,False
+DIOR HOMME,dior homme,2026-03-14,0.03125,False
+3.PARADIS,3paradis,2026-03-14,0.0,False
+Dior,dior,2026-03-15,1.0,True
+KENZO,kenzo,2026-03-15,0.06383,False
+BERLUTI,berluti,2026-03-15,0.010638,False
+DIOR HOMME,dior homme,2026-03-15,0.031915,False
+3.PARADIS,3paradis,2026-03-15,0.0,False
+Dior,dior,2026-03-16,1.0,True
+KENZO,kenzo,2026-03-16,0.060976,False
+BERLUTI,berluti,2026-03-16,0.012195,False
+DIOR HOMME,dior homme,2026-03-16,0.036585,False
+3.PARADIS,3paradis,2026-03-16,0.0,False
+Dior,dior,2026-03-17,1.0,True
+KENZO,kenzo,2026-03-17,0.077922,False
+BERLUTI,berluti,2026-03-17,0.012987,False
+DIOR HOMME,dior homme,2026-03-17,0.038961,False
+3.PARADIS,3paradis,2026-03-17,0.0,False
+Dior,dior,2026-03-18,1.0,True
+KENZO,kenzo,2026-03-18,0.075,False
+BERLUTI,berluti,2026-03-18,0.0,False
+DIOR HOMME,dior homme,2026-03-18,0.0375,False
+3.PARADIS,3paradis,2026-03-18,0.0,False

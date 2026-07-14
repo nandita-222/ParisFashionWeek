@@ -1,0 +1,156 @@
+brand_name,brand_key,log_date,search_index_score,is_control
+Dior,dior,2026-02-16,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-16,0.0125,False
+ISABEL MARANT,isabel marant,2026-02-16,0.0625,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-16,0.0,False
+KML,kml,2026-02-16,0.025,False
+Dior,dior,2026-02-17,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-17,0.013333,False
+ISABEL MARANT,isabel marant,2026-02-17,0.053333,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-17,0.0,False
+KML,kml,2026-02-17,0.026667,False
+Dior,dior,2026-02-18,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-18,0.013333,False
+ISABEL MARANT,isabel marant,2026-02-18,0.053333,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-18,0.0,False
+KML,kml,2026-02-18,0.026667,False
+Dior,dior,2026-02-19,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-19,0.012987,False
+ISABEL MARANT,isabel marant,2026-02-19,0.051948,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-19,0.0,False
+KML,kml,2026-02-19,0.025974,False
+Dior,dior,2026-02-20,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-20,0.012346,False
+ISABEL MARANT,isabel marant,2026-02-20,0.049383,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-20,0.0,False
+KML,kml,2026-02-20,0.024691,False
+Dior,dior,2026-02-21,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-21,0.010638,False
+ISABEL MARANT,isabel marant,2026-02-21,0.042553,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-21,0.0,False
+KML,kml,2026-02-21,0.010638,False
+Dior,dior,2026-02-22,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-22,0.011236,False
+ISABEL MARANT,isabel marant,2026-02-22,0.044944,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-22,0.0,False
+KML,kml,2026-02-22,0.011236,False
+Dior,dior,2026-02-23,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-23,0.012821,False
+ISABEL MARANT,isabel marant,2026-02-23,0.051282,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-23,0.0,False
+KML,kml,2026-02-23,0.025641,False
+Dior,dior,2026-02-24,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-24,0.013514,False
+ISABEL MARANT,isabel marant,2026-02-24,0.040541,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-24,0.0,False
+KML,kml,2026-02-24,0.027027,False
+Dior,dior,2026-02-25,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-25,0.012987,False
+ISABEL MARANT,isabel marant,2026-02-25,0.051948,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-25,0.0,False
+KML,kml,2026-02-25,0.025974,False
+Dior,dior,2026-02-26,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-26,0.012821,False
+ISABEL MARANT,isabel marant,2026-02-26,0.038462,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-26,0.0,False
+KML,kml,2026-02-26,0.038462,False
+Dior,dior,2026-02-27,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-27,0.012346,False
+ISABEL MARANT,isabel marant,2026-02-27,0.049383,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-27,0.0,False
+KML,kml,2026-02-27,0.024691,False
+Dior,dior,2026-02-28,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-02-28,0.011628,False
+ISABEL MARANT,isabel marant,2026-02-28,0.046512,False
+JUNYA WATANABE MAN,junya watanabe man,2026-02-28,0.0,False
+KML,kml,2026-02-28,0.023256,False
+Dior,dior,2026-03-01,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-01,0.011364,False
+ISABEL MARANT,isabel marant,2026-03-01,0.045455,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-01,0.0,False
+KML,kml,2026-03-01,0.011364,False
+Dior,dior,2026-03-02,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-02,0.013158,False
+ISABEL MARANT,isabel marant,2026-03-02,0.052632,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-02,0.0,False
+KML,kml,2026-03-02,0.026316,False
+Dior,dior,2026-03-03,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-03,0.013158,False
+ISABEL MARANT,isabel marant,2026-03-03,0.052632,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-03,0.0,False
+KML,kml,2026-03-03,0.026316,False
+Dior,dior,2026-03-04,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-04,0.011905,False
+ISABEL MARANT,isabel marant,2026-03-04,0.047619,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-04,0.0,False
+KML,kml,2026-03-04,0.02381,False
+Dior,dior,2026-03-05,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-05,0.011905,False
+ISABEL MARANT,isabel marant,2026-03-05,0.047619,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-05,0.0,False
+KML,kml,2026-03-05,0.02381,False
+Dior,dior,2026-03-06,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-06,0.011628,False
+ISABEL MARANT,isabel marant,2026-03-06,0.046512,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-06,0.0,False
+KML,kml,2026-03-06,0.023256,False
+Dior,dior,2026-03-07,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-07,0.01,False
+ISABEL MARANT,isabel marant,2026-03-07,0.05,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-07,0.0,False
+KML,kml,2026-03-07,0.02,False
+Dior,dior,2026-03-08,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-08,0.010101,False
+ISABEL MARANT,isabel marant,2026-03-08,0.050505,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-08,0.0,False
+KML,kml,2026-03-08,0.020202,False
+Dior,dior,2026-03-09,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-09,0.011905,False
+ISABEL MARANT,isabel marant,2026-03-09,0.047619,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-09,0.0,False
+KML,kml,2026-03-09,0.02381,False
+Dior,dior,2026-03-10,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-10,0.0125,False
+ISABEL MARANT,isabel marant,2026-03-10,0.05,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-10,0.0,False
+KML,kml,2026-03-10,0.025,False
+Dior,dior,2026-03-11,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-11,0.012195,False
+ISABEL MARANT,isabel marant,2026-03-11,0.036585,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-11,0.0,False
+KML,kml,2026-03-11,0.02439,False
+Dior,dior,2026-03-12,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-12,0.012048,False
+ISABEL MARANT,isabel marant,2026-03-12,0.048193,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-12,0.0,False
+KML,kml,2026-03-12,0.024096,False
+Dior,dior,2026-03-13,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-13,0.01087,False
+ISABEL MARANT,isabel marant,2026-03-13,0.043478,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-13,0.0,False
+KML,kml,2026-03-13,0.021739,False
+Dior,dior,2026-03-14,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-14,0.010417,False
+ISABEL MARANT,isabel marant,2026-03-14,0.041667,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-14,0.0,False
+KML,kml,2026-03-14,0.020833,False
+Dior,dior,2026-03-15,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-15,0.010638,False
+ISABEL MARANT,isabel marant,2026-03-15,0.042553,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-15,0.0,False
+KML,kml,2026-03-15,0.021277,False
+Dior,dior,2026-03-16,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-16,0.012195,False
+ISABEL MARANT,isabel marant,2026-03-16,0.04878,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-16,0.0,False
+KML,kml,2026-03-16,0.02439,False
+Dior,dior,2026-03-17,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-17,0.012987,False
+ISABEL MARANT,isabel marant,2026-03-17,0.038961,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-17,0.0,False
+KML,kml,2026-03-17,0.025974,False
+Dior,dior,2026-03-18,1.0,True
+DRIES VAN NOTEN,dries van noten,2026-03-18,0.0125,False
+ISABEL MARANT,isabel marant,2026-03-18,0.0375,False
+JUNYA WATANABE MAN,junya watanabe man,2026-03-18,0.0,False
+KML,kml,2026-03-18,0.025,False

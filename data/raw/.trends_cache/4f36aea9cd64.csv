@@ -1,0 +1,156 @@
+brand_name,brand_key,log_date,search_index_score,is_control
+Dior,dior,2026-02-16,1.0,True
+Balenciaga,balenciaga,2026-02-16,0.2375,False
+Margaret Howell,margaret howell,2026-02-16,0.0,False
+Paloma Wool,paloma wool,2026-02-16,0.0,False
+Lacoste,lacoste,2026-02-16,0.35,False
+Dior,dior,2026-02-17,1.0,True
+Balenciaga,balenciaga,2026-02-17,0.253333,False
+Margaret Howell,margaret howell,2026-02-17,0.0,False
+Paloma Wool,paloma wool,2026-02-17,0.013333,False
+Lacoste,lacoste,2026-02-17,0.36,False
+Dior,dior,2026-02-18,1.0,True
+Balenciaga,balenciaga,2026-02-18,0.266667,False
+Margaret Howell,margaret howell,2026-02-18,0.0,False
+Paloma Wool,paloma wool,2026-02-18,0.0,False
+Lacoste,lacoste,2026-02-18,0.346667,False
+Dior,dior,2026-02-19,1.0,True
+Balenciaga,balenciaga,2026-02-19,0.25974,False
+Margaret Howell,margaret howell,2026-02-19,0.0,False
+Paloma Wool,paloma wool,2026-02-19,0.0,False
+Lacoste,lacoste,2026-02-19,0.311688,False
+Dior,dior,2026-02-20,1.0,True
+Balenciaga,balenciaga,2026-02-20,0.222222,False
+Margaret Howell,margaret howell,2026-02-20,0.0,False
+Paloma Wool,paloma wool,2026-02-20,0.012346,False
+Lacoste,lacoste,2026-02-20,0.320988,False
+Dior,dior,2026-02-21,1.0,True
+Balenciaga,balenciaga,2026-02-21,0.244681,False
+Margaret Howell,margaret howell,2026-02-21,0.0,False
+Paloma Wool,paloma wool,2026-02-21,0.010638,False
+Lacoste,lacoste,2026-02-21,0.308511,False
+Dior,dior,2026-02-22,1.0,True
+Balenciaga,balenciaga,2026-02-22,0.247191,False
+Margaret Howell,margaret howell,2026-02-22,0.0,False
+Paloma Wool,paloma wool,2026-02-22,0.011236,False
+Lacoste,lacoste,2026-02-22,0.314607,False
+Dior,dior,2026-02-23,1.0,True
+Balenciaga,balenciaga,2026-02-23,0.24359,False
+Margaret Howell,margaret howell,2026-02-23,0.0,False
+Paloma Wool,paloma wool,2026-02-23,0.012821,False
+Lacoste,lacoste,2026-02-23,0.320513,False
+Dior,dior,2026-02-24,1.0,True
+Balenciaga,balenciaga,2026-02-24,0.243243,False
+Margaret Howell,margaret howell,2026-02-24,0.0,False
+Paloma Wool,paloma wool,2026-02-24,0.013514,False
+Lacoste,lacoste,2026-02-24,0.310811,False
+Dior,dior,2026-02-25,1.0,True
+Balenciaga,balenciaga,2026-02-25,0.285714,False
+Margaret Howell,margaret howell,2026-02-25,0.0,False
+Paloma Wool,paloma wool,2026-02-25,0.0,False
+Lacoste,lacoste,2026-02-25,0.311688,False
+Dior,dior,2026-02-26,1.0,True
+Balenciaga,balenciaga,2026-02-26,0.269231,False
+Margaret Howell,margaret howell,2026-02-26,0.0,False
+Paloma Wool,paloma wool,2026-02-26,0.0,False
+Lacoste,lacoste,2026-02-26,0.307692,False
+Dior,dior,2026-02-27,1.0,True
+Balenciaga,balenciaga,2026-02-27,0.246914,False
+Margaret Howell,margaret howell,2026-02-27,0.0,False
+Paloma Wool,paloma wool,2026-02-27,0.012346,False
+Lacoste,lacoste,2026-02-27,0.308642,False
+Dior,dior,2026-02-28,1.0,True
+Balenciaga,balenciaga,2026-02-28,0.255814,False
+Margaret Howell,margaret howell,2026-02-28,0.0,False
+Paloma Wool,paloma wool,2026-02-28,0.0,False
+Lacoste,lacoste,2026-02-28,0.302326,False
+Dior,dior,2026-03-01,1.0,True
+Balenciaga,balenciaga,2026-03-01,0.238636,False
+Margaret Howell,margaret howell,2026-03-01,0.0,False
+Paloma Wool,paloma wool,2026-03-01,0.011364,False
+Lacoste,lacoste,2026-03-01,0.340909,False
+Dior,dior,2026-03-02,1.0,True
+Balenciaga,balenciaga,2026-03-02,0.25,False
+Margaret Howell,margaret howell,2026-03-02,0.0,False
+Paloma Wool,paloma wool,2026-03-02,0.013158,False
+Lacoste,lacoste,2026-03-02,0.315789,False
+Dior,dior,2026-03-03,1.0,True
+Balenciaga,balenciaga,2026-03-03,0.263158,False
+Margaret Howell,margaret howell,2026-03-03,0.0,False
+Paloma Wool,paloma wool,2026-03-03,0.013158,False
+Lacoste,lacoste,2026-03-03,0.315789,False
+Dior,dior,2026-03-04,1.0,True
+Balenciaga,balenciaga,2026-03-04,0.22619,False
+Margaret Howell,margaret howell,2026-03-04,0.0,False
+Paloma Wool,paloma wool,2026-03-04,0.011905,False
+Lacoste,lacoste,2026-03-04,0.285714,False
+Dior,dior,2026-03-05,1.0,True
+Balenciaga,balenciaga,2026-03-05,0.238095,False
+Margaret Howell,margaret howell,2026-03-05,0.0,False
+Paloma Wool,paloma wool,2026-03-05,0.011905,False
+Lacoste,lacoste,2026-03-05,0.27381,False
+Dior,dior,2026-03-06,1.0,True
+Balenciaga,balenciaga,2026-03-06,0.232558,False
+Margaret Howell,margaret howell,2026-03-06,0.0,False
+Paloma Wool,paloma wool,2026-03-06,0.011628,False
+Lacoste,lacoste,2026-03-06,0.325581,False
+Dior,dior,2026-03-07,1.0,True
+Balenciaga,balenciaga,2026-03-07,0.25,False
+Margaret Howell,margaret howell,2026-03-07,0.0,False
+Paloma Wool,paloma wool,2026-03-07,0.01,False
+Lacoste,lacoste,2026-03-07,0.3,False
+Dior,dior,2026-03-08,1.0,True
+Balenciaga,balenciaga,2026-03-08,0.262626,False
+Margaret Howell,margaret howell,2026-03-08,0.0,False
+Paloma Wool,paloma wool,2026-03-08,0.010101,False
+Lacoste,lacoste,2026-03-08,0.333333,False
+Dior,dior,2026-03-09,1.0,True
+Balenciaga,balenciaga,2026-03-09,0.285714,False
+Margaret Howell,margaret howell,2026-03-09,0.0,False
+Paloma Wool,paloma wool,2026-03-09,0.011905,False
+Lacoste,lacoste,2026-03-09,0.309524,False
+Dior,dior,2026-03-10,1.0,True
+Balenciaga,balenciaga,2026-03-10,0.2875,False
+Margaret Howell,margaret howell,2026-03-10,0.0,False
+Paloma Wool,paloma wool,2026-03-10,0.0125,False
+Lacoste,lacoste,2026-03-10,0.325,False
+Dior,dior,2026-03-11,1.0,True
+Balenciaga,balenciaga,2026-03-11,0.304878,False
+Margaret Howell,margaret howell,2026-03-11,0.0,False
+Paloma Wool,paloma wool,2026-03-11,0.012195,False
+Lacoste,lacoste,2026-03-11,0.317073,False
+Dior,dior,2026-03-12,1.0,True
+Balenciaga,balenciaga,2026-03-12,0.325301,False
+Margaret Howell,margaret howell,2026-03-12,0.0,False
+Paloma Wool,paloma wool,2026-03-12,0.012048,False
+Lacoste,lacoste,2026-03-12,0.325301,False
+Dior,dior,2026-03-13,1.0,True
+Balenciaga,balenciaga,2026-03-13,0.358696,False
+Margaret Howell,margaret howell,2026-03-13,0.0,False
+Paloma Wool,paloma wool,2026-03-13,0.01087,False
+Lacoste,lacoste,2026-03-13,0.293478,False
+Dior,dior,2026-03-14,1.0,True
+Balenciaga,balenciaga,2026-03-14,0.43299,False
+Margaret Howell,margaret howell,2026-03-14,0.0,False
+Paloma Wool,paloma wool,2026-03-14,0.010309,False
+Lacoste,lacoste,2026-03-14,0.319588,False
+Dior,dior,2026-03-15,1.0,True
+Balenciaga,balenciaga,2026-03-15,0.446809,False
+Margaret Howell,margaret howell,2026-03-15,0.0,False
+Paloma Wool,paloma wool,2026-03-15,0.010638,False
+Lacoste,lacoste,2026-03-15,0.340426,False
+Dior,dior,2026-03-16,1.0,True
+Balenciaga,balenciaga,2026-03-16,0.45122,False
+Margaret Howell,margaret howell,2026-03-16,0.0,False
+Paloma Wool,paloma wool,2026-03-16,0.012195,False
+Lacoste,lacoste,2026-03-16,0.329268,False
+Dior,dior,2026-03-17,1.0,True
+Balenciaga,balenciaga,2026-03-17,0.480519,False
+Margaret Howell,margaret howell,2026-03-17,0.0,False
+Paloma Wool,paloma wool,2026-03-17,0.012987,False
+Lacoste,lacoste,2026-03-17,0.324675,False
+Dior,dior,2026-03-18,1.0,True
+Balenciaga,balenciaga,2026-03-18,0.4375,False
+Margaret Howell,margaret howell,2026-03-18,0.0,False
+Paloma Wool,paloma wool,2026-03-18,0.0125,False
+Lacoste,lacoste,2026-03-18,0.3125,False

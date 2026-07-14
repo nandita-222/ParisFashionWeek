@@ -1,0 +1,156 @@
+brand_name,brand_key,log_date,search_index_score,is_control
+Dior,dior,2026-02-16,1.0,True
+Tom Ford,tom ford,2026-02-16,0.225,False
+Alaia,alaia,2026-02-16,0.025,False
+Chloe,chloe,2026-02-16,0.5,False
+Junko Shimada,junko shimada,2026-02-16,0.0,False
+Dior,dior,2026-02-17,1.0,True
+Tom Ford,tom ford,2026-02-17,0.226667,False
+Alaia,alaia,2026-02-17,0.026667,False
+Chloe,chloe,2026-02-17,0.506667,False
+Junko Shimada,junko shimada,2026-02-17,0.0,False
+Dior,dior,2026-02-18,1.0,True
+Tom Ford,tom ford,2026-02-18,0.226667,False
+Alaia,alaia,2026-02-18,0.026667,False
+Chloe,chloe,2026-02-18,0.466667,False
+Junko Shimada,junko shimada,2026-02-18,0.0,False
+Dior,dior,2026-02-19,1.0,True
+Tom Ford,tom ford,2026-02-19,0.220779,False
+Alaia,alaia,2026-02-19,0.025974,False
+Chloe,chloe,2026-02-19,0.480519,False
+Junko Shimada,junko shimada,2026-02-19,0.0,False
+Dior,dior,2026-02-20,1.0,True
+Tom Ford,tom ford,2026-02-20,0.234568,False
+Alaia,alaia,2026-02-20,0.024691,False
+Chloe,chloe,2026-02-20,0.45679,False
+Junko Shimada,junko shimada,2026-02-20,0.0,False
+Dior,dior,2026-02-21,1.0,True
+Tom Ford,tom ford,2026-02-21,0.212766,False
+Alaia,alaia,2026-02-21,0.021277,False
+Chloe,chloe,2026-02-21,0.393617,False
+Junko Shimada,junko shimada,2026-02-21,0.0,False
+Dior,dior,2026-02-22,1.0,True
+Tom Ford,tom ford,2026-02-22,0.213483,False
+Alaia,alaia,2026-02-22,0.022472,False
+Chloe,chloe,2026-02-22,0.426966,False
+Junko Shimada,junko shimada,2026-02-22,0.0,False
+Dior,dior,2026-02-23,1.0,True
+Tom Ford,tom ford,2026-02-23,0.230769,False
+Alaia,alaia,2026-02-23,0.025641,False
+Chloe,chloe,2026-02-23,0.487179,False
+Junko Shimada,junko shimada,2026-02-23,0.0,False
+Dior,dior,2026-02-24,1.0,True
+Tom Ford,tom ford,2026-02-24,0.243243,False
+Alaia,alaia,2026-02-24,0.027027,False
+Chloe,chloe,2026-02-24,0.472973,False
+Junko Shimada,junko shimada,2026-02-24,0.0,False
+Dior,dior,2026-02-25,1.0,True
+Tom Ford,tom ford,2026-02-25,0.220779,False
+Alaia,alaia,2026-02-25,0.025974,False
+Chloe,chloe,2026-02-25,0.467532,False
+Junko Shimada,junko shimada,2026-02-25,0.0,False
+Dior,dior,2026-02-26,1.0,True
+Tom Ford,tom ford,2026-02-26,0.230769,False
+Alaia,alaia,2026-02-26,0.025641,False
+Chloe,chloe,2026-02-26,0.474359,False
+Junko Shimada,junko shimada,2026-02-26,0.0,False
+Dior,dior,2026-02-27,1.0,True
+Tom Ford,tom ford,2026-02-27,0.246914,False
+Alaia,alaia,2026-02-27,0.024691,False
+Chloe,chloe,2026-02-27,0.469136,False
+Junko Shimada,junko shimada,2026-02-27,0.0,False
+Dior,dior,2026-02-28,1.0,True
+Tom Ford,tom ford,2026-02-28,0.244186,False
+Alaia,alaia,2026-02-28,0.034884,False
+Chloe,chloe,2026-02-28,0.44186,False
+Junko Shimada,junko shimada,2026-02-28,0.0,False
+Dior,dior,2026-03-01,1.0,True
+Tom Ford,tom ford,2026-03-01,0.238636,False
+Alaia,alaia,2026-03-01,0.034091,False
+Chloe,chloe,2026-03-01,0.454545,False
+Junko Shimada,junko shimada,2026-03-01,0.0,False
+Dior,dior,2026-03-02,1.0,True
+Tom Ford,tom ford,2026-03-02,0.25,False
+Alaia,alaia,2026-03-02,0.026316,False
+Chloe,chloe,2026-03-02,0.447368,False
+Junko Shimada,junko shimada,2026-03-02,0.0,False
+Dior,dior,2026-03-03,1.0,True
+Tom Ford,tom ford,2026-03-03,0.236842,False
+Alaia,alaia,2026-03-03,0.026316,False
+Chloe,chloe,2026-03-03,0.473684,False
+Junko Shimada,junko shimada,2026-03-03,0.0,False
+Dior,dior,2026-03-04,1.0,True
+Tom Ford,tom ford,2026-03-04,0.261905,False
+Alaia,alaia,2026-03-04,0.035714,False
+Chloe,chloe,2026-03-04,0.440476,False
+Junko Shimada,junko shimada,2026-03-04,0.0,False
+Dior,dior,2026-03-05,1.0,True
+Tom Ford,tom ford,2026-03-05,0.25,False
+Alaia,alaia,2026-03-05,0.035714,False
+Chloe,chloe,2026-03-05,0.488095,False
+Junko Shimada,junko shimada,2026-03-05,0.0,False
+Dior,dior,2026-03-06,1.0,True
+Tom Ford,tom ford,2026-03-06,0.232558,False
+Alaia,alaia,2026-03-06,0.023256,False
+Chloe,chloe,2026-03-06,0.465116,False
+Junko Shimada,junko shimada,2026-03-06,0.0,False
+Dior,dior,2026-03-07,1.0,True
+Tom Ford,tom ford,2026-03-07,0.22,False
+Alaia,alaia,2026-03-07,0.03,False
+Chloe,chloe,2026-03-07,0.41,False
+Junko Shimada,junko shimada,2026-03-07,0.0,False
+Dior,dior,2026-03-08,1.0,True
+Tom Ford,tom ford,2026-03-08,0.232323,False
+Alaia,alaia,2026-03-08,0.030303,False
+Chloe,chloe,2026-03-08,0.434343,False
+Junko Shimada,junko shimada,2026-03-08,0.0,False
+Dior,dior,2026-03-09,1.0,True
+Tom Ford,tom ford,2026-03-09,0.22619,False
+Alaia,alaia,2026-03-09,0.02381,False
+Chloe,chloe,2026-03-09,0.428571,False
+Junko Shimada,junko shimada,2026-03-09,0.0,False
+Dior,dior,2026-03-10,1.0,True
+Tom Ford,tom ford,2026-03-10,0.225,False
+Alaia,alaia,2026-03-10,0.025,False
+Chloe,chloe,2026-03-10,0.4625,False
+Junko Shimada,junko shimada,2026-03-10,0.0,False
+Dior,dior,2026-03-11,1.0,True
+Tom Ford,tom ford,2026-03-11,0.219512,False
+Alaia,alaia,2026-03-11,0.02439,False
+Chloe,chloe,2026-03-11,0.45122,False
+Junko Shimada,junko shimada,2026-03-11,0.0,False
+Dior,dior,2026-03-12,1.0,True
+Tom Ford,tom ford,2026-03-12,0.228916,False
+Alaia,alaia,2026-03-12,0.024096,False
+Chloe,chloe,2026-03-12,0.433735,False
+Junko Shimada,junko shimada,2026-03-12,0.0,False
+Dior,dior,2026-03-13,1.0,True
+Tom Ford,tom ford,2026-03-13,0.206522,False
+Alaia,alaia,2026-03-13,0.021739,False
+Chloe,chloe,2026-03-13,0.402174,False
+Junko Shimada,junko shimada,2026-03-13,0.0,False
+Dior,dior,2026-03-14,1.0,True
+Tom Ford,tom ford,2026-03-14,0.237113,False
+Alaia,alaia,2026-03-14,0.030928,False
+Chloe,chloe,2026-03-14,0.42268,False
+Junko Shimada,junko shimada,2026-03-14,0.0,False
+Dior,dior,2026-03-15,1.0,True
+Tom Ford,tom ford,2026-03-15,0.244681,False
+Alaia,alaia,2026-03-15,0.031915,False
+Chloe,chloe,2026-03-15,0.468085,False
+Junko Shimada,junko shimada,2026-03-15,0.0,False
+Dior,dior,2026-03-16,1.0,True
+Tom Ford,tom ford,2026-03-16,0.256098,False
+Alaia,alaia,2026-03-16,0.02439,False
+Chloe,chloe,2026-03-16,0.560976,False
+Junko Shimada,junko shimada,2026-03-16,0.0,False
+Dior,dior,2026-03-17,1.0,True
+Tom Ford,tom ford,2026-03-17,0.246753,False
+Alaia,alaia,2026-03-17,0.025974,False
+Chloe,chloe,2026-03-17,0.506494,False
+Junko Shimada,junko shimada,2026-03-17,0.0,False
+Dior,dior,2026-03-18,1.0,True
+Tom Ford,tom ford,2026-03-18,0.225,False
+Alaia,alaia,2026-03-18,0.0375,False
+Chloe,chloe,2026-03-18,0.5,False
+Junko Shimada,junko shimada,2026-03-18,0.0,False

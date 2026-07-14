@@ -1,0 +1,13 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+pandas==3.0.3
+numpy==2.5.1
+geopy==2.4.1
+duckdb==1.5.4
+plotly==6.9.0
+streamlit==1.59.2
+folium==0.20.0
+pytrends==4.9.2
+lxml==6.1.1
+playwright==1.61.0
+tzdata==2024.1

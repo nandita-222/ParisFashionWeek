@@ -1,0 +1,156 @@
+brand_name,brand_key,log_date,search_index_score,is_control
+Dior,dior,2026-02-16,1.0,True
+Balmain,balmain,2026-02-16,0.0625,False
+Dries Van Noten,dries van noten,2026-02-16,0.0125,False
+Stella McCartney,stella mccartney,2026-02-16,0.025,False
+Acne Studios,acne studios,2026-02-16,0.0375,False
+Dior,dior,2026-02-17,1.0,True
+Balmain,balmain,2026-02-17,0.066667,False
+Dries Van Noten,dries van noten,2026-02-17,0.013333,False
+Stella McCartney,stella mccartney,2026-02-17,0.026667,False
+Acne Studios,acne studios,2026-02-17,0.04,False
+Dior,dior,2026-02-18,1.0,True
+Balmain,balmain,2026-02-18,0.066667,False
+Dries Van Noten,dries van noten,2026-02-18,0.013333,False
+Stella McCartney,stella mccartney,2026-02-18,0.026667,False
+Acne Studios,acne studios,2026-02-18,0.04,False
+Dior,dior,2026-02-19,1.0,True
+Balmain,balmain,2026-02-19,0.064935,False
+Dries Van Noten,dries van noten,2026-02-19,0.012987,False
+Stella McCartney,stella mccartney,2026-02-19,0.025974,False
+Acne Studios,acne studios,2026-02-19,0.051948,False
+Dior,dior,2026-02-20,1.0,True
+Balmain,balmain,2026-02-20,0.061728,False
+Dries Van Noten,dries van noten,2026-02-20,0.012346,False
+Stella McCartney,stella mccartney,2026-02-20,0.024691,False
+Acne Studios,acne studios,2026-02-20,0.049383,False
+Dior,dior,2026-02-21,1.0,True
+Balmain,balmain,2026-02-21,0.06383,False
+Dries Van Noten,dries van noten,2026-02-21,0.010638,False
+Stella McCartney,stella mccartney,2026-02-21,0.031915,False
+Acne Studios,acne studios,2026-02-21,0.042553,False
+Dior,dior,2026-02-22,1.0,True
+Balmain,balmain,2026-02-22,0.05618,False
+Dries Van Noten,dries van noten,2026-02-22,0.011236,False
+Stella McCartney,stella mccartney,2026-02-22,0.033708,False
+Acne Studios,acne studios,2026-02-22,0.044944,False
+Dior,dior,2026-02-23,1.0,True
+Balmain,balmain,2026-02-23,0.064103,False
+Dries Van Noten,dries van noten,2026-02-23,0.012821,False
+Stella McCartney,stella mccartney,2026-02-23,0.025641,False
+Acne Studios,acne studios,2026-02-23,0.038462,False
+Dior,dior,2026-02-24,1.0,True
+Balmain,balmain,2026-02-24,0.067568,False
+Dries Van Noten,dries van noten,2026-02-24,0.013514,False
+Stella McCartney,stella mccartney,2026-02-24,0.027027,False
+Acne Studios,acne studios,2026-02-24,0.040541,False
+Dior,dior,2026-02-25,1.0,True
+Balmain,balmain,2026-02-25,0.064935,False
+Dries Van Noten,dries van noten,2026-02-25,0.012987,False
+Stella McCartney,stella mccartney,2026-02-25,0.025974,False
+Acne Studios,acne studios,2026-02-25,0.038961,False
+Dior,dior,2026-02-26,1.0,True
+Balmain,balmain,2026-02-26,0.064103,False
+Dries Van Noten,dries van noten,2026-02-26,0.012821,False
+Stella McCartney,stella mccartney,2026-02-26,0.025641,False
+Acne Studios,acne studios,2026-02-26,0.038462,False
+Dior,dior,2026-02-27,1.0,True
+Balmain,balmain,2026-02-27,0.061728,False
+Dries Van Noten,dries van noten,2026-02-27,0.012346,False
+Stella McCartney,stella mccartney,2026-02-27,0.024691,False
+Acne Studios,acne studios,2026-02-27,0.037037,False
+Dior,dior,2026-02-28,1.0,True
+Balmain,balmain,2026-02-28,0.05814,False
+Dries Van Noten,dries van noten,2026-02-28,0.011628,False
+Stella McCartney,stella mccartney,2026-02-28,0.034884,False
+Acne Studios,acne studios,2026-02-28,0.034884,False
+Dior,dior,2026-03-01,1.0,True
+Balmain,balmain,2026-03-01,0.056818,False
+Dries Van Noten,dries van noten,2026-03-01,0.011364,False
+Stella McCartney,stella mccartney,2026-03-01,0.022727,False
+Acne Studios,acne studios,2026-03-01,0.045455,False
+Dior,dior,2026-03-02,1.0,True
+Balmain,balmain,2026-03-02,0.065789,False
+Dries Van Noten,dries van noten,2026-03-02,0.013158,False
+Stella McCartney,stella mccartney,2026-03-02,0.026316,False
+Acne Studios,acne studios,2026-03-02,0.039474,False
+Dior,dior,2026-03-03,1.0,True
+Balmain,balmain,2026-03-03,0.065789,False
+Dries Van Noten,dries van noten,2026-03-03,0.013158,False
+Stella McCartney,stella mccartney,2026-03-03,0.026316,False
+Acne Studios,acne studios,2026-03-03,0.039474,False
+Dior,dior,2026-03-04,1.0,True
+Balmain,balmain,2026-03-04,0.059524,False
+Dries Van Noten,dries van noten,2026-03-04,0.011905,False
+Stella McCartney,stella mccartney,2026-03-04,0.035714,False
+Acne Studios,acne studios,2026-03-04,0.035714,False
+Dior,dior,2026-03-05,1.0,True
+Balmain,balmain,2026-03-05,0.059524,False
+Dries Van Noten,dries van noten,2026-03-05,0.011905,False
+Stella McCartney,stella mccartney,2026-03-05,0.047619,False
+Acne Studios,acne studios,2026-03-05,0.035714,False
+Dior,dior,2026-03-06,1.0,True
+Balmain,balmain,2026-03-06,0.05814,False
+Dries Van Noten,dries van noten,2026-03-06,0.011628,False
+Stella McCartney,stella mccartney,2026-03-06,0.034884,False
+Acne Studios,acne studios,2026-03-06,0.034884,False
+Dior,dior,2026-03-07,1.0,True
+Balmain,balmain,2026-03-07,0.06,False
+Dries Van Noten,dries van noten,2026-03-07,0.01,False
+Stella McCartney,stella mccartney,2026-03-07,0.04,False
+Acne Studios,acne studios,2026-03-07,0.03,False
+Dior,dior,2026-03-08,1.0,True
+Balmain,balmain,2026-03-08,0.050505,False
+Dries Van Noten,dries van noten,2026-03-08,0.010101,False
+Stella McCartney,stella mccartney,2026-03-08,0.030303,False
+Acne Studios,acne studios,2026-03-08,0.040404,False
+Dior,dior,2026-03-09,1.0,True
+Balmain,balmain,2026-03-09,0.059524,False
+Dries Van Noten,dries van noten,2026-03-09,0.011905,False
+Stella McCartney,stella mccartney,2026-03-09,0.02381,False
+Acne Studios,acne studios,2026-03-09,0.035714,False
+Dior,dior,2026-03-10,1.0,True
+Balmain,balmain,2026-03-10,0.05,False
+Dries Van Noten,dries van noten,2026-03-10,0.0125,False
+Stella McCartney,stella mccartney,2026-03-10,0.025,False
+Acne Studios,acne studios,2026-03-10,0.0375,False
+Dior,dior,2026-03-11,1.0,True
+Balmain,balmain,2026-03-11,0.04878,False
+Dries Van Noten,dries van noten,2026-03-11,0.012195,False
+Stella McCartney,stella mccartney,2026-03-11,0.02439,False
+Acne Studios,acne studios,2026-03-11,0.036585,False
+Dior,dior,2026-03-12,1.0,True
+Balmain,balmain,2026-03-12,0.048193,False
+Dries Van Noten,dries van noten,2026-03-12,0.012048,False
+Stella McCartney,stella mccartney,2026-03-12,0.024096,False
+Acne Studios,acne studios,2026-03-12,0.036145,False
+Dior,dior,2026-03-13,1.0,True
+Balmain,balmain,2026-03-13,0.054348,False
+Dries Van Noten,dries van noten,2026-03-13,0.01087,False
+Stella McCartney,stella mccartney,2026-03-13,0.021739,False
+Acne Studios,acne studios,2026-03-13,0.032609,False
+Dior,dior,2026-03-14,1.0,True
+Balmain,balmain,2026-03-14,0.051546,False
+Dries Van Noten,dries van noten,2026-03-14,0.010309,False
+Stella McCartney,stella mccartney,2026-03-14,0.020619,False
+Acne Studios,acne studios,2026-03-14,0.041237,False
+Dior,dior,2026-03-15,1.0,True
+Balmain,balmain,2026-03-15,0.053191,False
+Dries Van Noten,dries van noten,2026-03-15,0.010638,False
+Stella McCartney,stella mccartney,2026-03-15,0.031915,False
+Acne Studios,acne studios,2026-03-15,0.042553,False
+Dior,dior,2026-03-16,1.0,True
+Balmain,balmain,2026-03-16,0.060976,False
+Dries Van Noten,dries van noten,2026-03-16,0.012195,False
+Stella McCartney,stella mccartney,2026-03-16,0.02439,False
+Acne Studios,acne studios,2026-03-16,0.036585,False
+Dior,dior,2026-03-17,1.0,True
+Balmain,balmain,2026-03-17,0.051948,False
+Dries Van Noten,dries van noten,2026-03-17,0.012987,False
+Stella McCartney,stella mccartney,2026-03-17,0.025974,False
+Acne Studios,acne studios,2026-03-17,0.038961,False
+Dior,dior,2026-03-18,1.0,True
+Balmain,balmain,2026-03-18,0.05,False
+Dries Van Noten,dries van noten,2026-03-18,0.0125,False
+Stella McCartney,stella mccartney,2026-03-18,0.025,False
+Acne Studios,acne studios,2026-03-18,0.0375,False
