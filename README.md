@@ -51,6 +51,10 @@ streamlit run app/Home.py
 - **Venue/designer data**: FHCM (live site, house pages, and archived PDF) never publishes this. It's sourced by hand from press coverage for major houses only — see PLAN.md §3.1 for the full methodology, including what was searched and explicitly rejected for insufficient evidence.
 - **Media pillar**: out of scope (v4.0 plan revision) — this project tracks Trends only, not news coverage.
 
+## Topics
+
+`python` · `streamlit` · `duckdb` · `data-pipeline` · `etl` · `data-engineering` · `data-visualization` · `accessibility-analysis` · `fashion` · `paris` · `google-trends` · `geocoding` · `plotly` · `folium`
+
 ## License
 
 [MIT](LICENSE)
